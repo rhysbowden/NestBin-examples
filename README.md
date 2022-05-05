@@ -2,6 +2,7 @@
 Examples of usage for the NestBin R package, and scripts used to generate the plots in the accompanying paper Bowden et al., "Simulating binary random variables with two levels of clustering".
 
 Files:
+
 rNestBin_example.R 
 Example usage of rNestBin(), included in the paper.
 
